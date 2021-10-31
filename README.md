@@ -3,7 +3,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"/></p>
 
 <p align="center">
-<img  alt="Inmana-logo" src="./git-docs/Inmana-logo.png">
+<img  alt="Inmana-logo" src="https://github.com/joaopealves/inmana/blob/main/git-docs/Inmana-logo.png">
 </p>
 <h4 align="center">NextLevelWeek 5.0 🚀</h4>
 <h4 align="center">Application made during a NLW, made with love by @Rocketseat 💜</h4>
