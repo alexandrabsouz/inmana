@@ -12,13 +12,9 @@
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/joaopealves/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)%5D">
-  </a>
   <a href="./LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/badge/License%20MIT-5eb85e?style=for-the-badge&logo=&logoColor=2ee62e&labelColor=1781EB)%5D">
   </a>
